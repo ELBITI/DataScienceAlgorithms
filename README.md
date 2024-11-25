@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## **Contact**
 
-Achraf El Biti  
+achrafelbiti3@gmail.com 
 Project Link: [(https://github.com/ELBITI/DataScienceAlgorithms.git)]
 
 ---
