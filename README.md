@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## **Contact**
 
-Zakaria Kerroumi & Achraf El Biti  
+Achraf El Biti  
 Project Link: [https://github.com/your_username/your_repo](https://github.com/your_username/your_repo)
 
 ---
